@@ -1,19 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ujjwal&fontSize=80&animation=fadeIn&fontAlignY=35&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Ujjwal&fontSize=80&animation=fadeIn&fontAlignY=35&theme=tokyonight" />
 </p>
 
-### 💫 About Me
-Hi! I'm **Ujjwal**, a **Software Engineer** and **Automation Architect** passionate about building robust backend systems and streamlining complex workflows. With over **1.8 years of experience** across logistics and IT support, I focus on security, scalability, and impact-driven code.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bright3679&theme=tokyonight&no-bg=true&margin-w=4" />
+</p>
 
-- 🔭 I’m currently working on **Scalable CRM Architectures**.
-- 🌱 I’m currently learning **Advanced Deep Learning & Computer Vision**.
-- 🐧 I daily-drive **Arch Linux** and am a dedicated Linux power user.
-- 💬 Ask me about **MERN Stack, Python Automation, or JWT Security**.
+### 💫 Digital Portfolio
+**MERN Stack Developer | Automation Architect | Linux Power User**
+> "I architect secure, scalable backend ecosystems and build custom automation that bridges the gap between technology and business impact."
+
+- 🔭 **Current Focus:** Advanced CRM Architectures and Cloud Scalability.
+- ⚡ **Specialized in:** Python-based Middleware, JWT/RBAC Security, and Real-time Vision.
+- 🌱 **Learning:** Deep Dive into Neural Networks & Distributed Systems.
+- 🐧 **OS:** Daily-driving Arch Linux | Managed 50+ Linux Environments.
 
 ---
 
-### 🛠️ Technologies & Tools
-
+### 🏛️ Professional Tech Stack
 <p align="left">
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
@@ -21,32 +25,33 @@ Hi! I'm **Ujjwal**, a **Software Engineer** and **Automation Architect** passion
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Key Projects
 
-#### 🛠️ **ZeroMeds Automation**
-> A powerful Python-based middleware designed to eliminate manual data entry between pharmaceutical software and ERP systems.
-> - **Tech:** Python, Automation Scripts, ERP Integration
-> - **Impact:** Streamlined logistics and reduced human error by 100%.
+<details open>
+<summary><b>🛠️ ZeroMeds Automation</b></summary>
+Python middleware for real-time synchronization between Pharmaceutical software and ERPs. Eliminated 100% of manual entry errors.  
+<i>Tech Used: Python, Custom Scripts, ERP API Integration</i>
+</details>
 
-#### 📊 **Scalable CRM Suite**
-> Developed modular Sales and Support CRMs for internal business management.
-> - **Tech:** MERN Stack, JWT/RBAC, Real-time Dashboards
-> - **Features:** Advanced role-based access control and live tracking.
+<details>
+<summary><b>📊 Scalable CRM Suite</b></summary>
+Modular Sales and Support ecosystems with JWT-based role authentication and real-time data dashboards.  
+<i>Tech Used: MERN Stack, Socket.io, JWT/RBAC</i>
+</details>
 
-#### 🛒 **Smart E-Commerce**
-> A modern e-commerce platform with automated customer conversion flows.
-> - **Tech:** React, Node.js, WhatsApp Business API
-> - **Highlights:** Seamless social integration for direct conversions.
+<details>
+<summary><b>🛒 Smart E-Commerce</b></summary>
+Modern retail platform with integrated WhatsApp automation for high-conversion social sales.  
+<i>Tech Used: React, Node.js, WhatsApp API</i>
+</details>
 
 ---
 
 ### 📂 The Linux Lab
-As a Linux power user, I thrive in terminal-centric environments and manage **50+ Linux environments** for various deployments.
 <p align="left">
   <img src="https://img.shields.io/badge/Arch_Linux-0885C1?style=flat-square&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
@@ -56,15 +61,20 @@ As a Linux power user, I thrive in terminal-centric environments and manage **50
 
 ---
 
-### 📊 Performance Metrics
+### 📈 Global Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bright3679&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bright3679&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright3679&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bright3679&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bright3679&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 📫 Connect & Collaborate
 <p align="left">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
