@@ -121,27 +121,45 @@ Automated retail funnels integrating seamless social platform bridging.
 
 ---
 
-## 📊 Digital Footprint
+## 📊 Digital Footprint & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bright3679&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright3679&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" height="160" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bright3679&theme=radical&background=0D1117&hide_border=true" height="160" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bright3679/Bright3679/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bright3679/Bright3679/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Bright3679/Bright3679/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+
+  <br/><br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Bright3679&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Bright3679&show_icons=true&theme=default&bg_color=ffffff&hide_border=true&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Bright3679&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" height="160" alt="GitHub Stats" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright3679&layout=compact&theme=radical&bg_color=0D1117&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright3679&layout=compact&theme=default&bg_color=ffffff&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright3679&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" height="160" alt="Top Languages" />
+  </picture>
 </div>
 
 ---
 
-## 🤝 Connect
+## 🤝 Let's Build Something
 
 <div align="center">
+  <p><b>Ready to scale your architecture?</b><br/>Whether you need custom middleware, a full-stack MERN ecosystem, or a specialized Linux deployment, let's discuss your project.</p>
+  <br/>
+
   <a href="mailto:ujjwal.soni@example.com">
-    <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Drop_an_Email-121212?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://your-portfolio-website.com">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/View_Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
