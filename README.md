@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4A00E0,8E2DE2&height=250&section=header&text=Ujjwal%20Soni&fontSize=70&animation=twinkling&fontAlignY=35&fontColor=FFFFFF&desc=Architecting%20Scalable%20Ecosystems&descAlignY=55&descAlign=50" alt="Animated Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=Ujjwal%20Soni&fontSize=80&fontAlignY=40&fontColor=FFFFFF&desc=Architecting%20Scalable%20Ecosystems&descAlignY=65&descAlign=50" alt="Ujjwal Soni" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=System+Architect;MERN+Stack+Engineer;Linux+Specialist" alt="Typing SVG" />
 </div>
