@@ -67,23 +67,22 @@ With over two years of experience working solo, my focus is on architecting high
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Ujjwal%20Soni&fontSize=70&animation=twinkling&fontAlignY=35&fontColor=FFFFFF&desc=Architecting%20High-Performance%20Ecosystems&descAlignY=55&descAlign=50" alt="Animated Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Ujjwal%20Soni&fontSize=70&animation=twinkling&fontAlignY=35&fontColor=FFFFFF&desc=Architecting%20Scalable%20Ecosystems&descAlignY=55&descAlign=50" alt="Animated Header" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=MERN+Stack+Engineer;Freelance+System+Architect;Linux+Power+User;Crafting+Minimal+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=System+Architect;MERN+Stack+Engineer;Linux+Specialist" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 Engineering Focus
-I architect high-performance backend ecosystems and design clean, professional user interfaces. Operating primarily in high-stakes terminal environments, I bridge complex logic with real-world business scalability.
-
-* **Base:** Surat, India
-* **Specialty:** MERN Stack, Custom Middleware, Secure RBAC Systems
-* **Environment:** Arch Linux (Daily Driver)
+<div align="center">
+  <i>Architecting high-performance backend infrastructure and crafting minimal, professional interfaces. Bridging complex system logic with real-world business scalability.</i>
+  <br/><br/>
+  <b>Base:</b> Surat, India &nbsp; | &nbsp; <b>Focus:</b> MERN & Custom Middleware &nbsp; | &nbsp; <b>Env:</b> Arch Linux
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Ecosystem
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=white" alt="React" />
@@ -97,33 +96,22 @@ I architect high-performance backend ecosystems and design clean, professional u
   <img src="https://img.shields.io/badge/Debian-121212?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/Kali_Linux-121212?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali" />
   <img src="https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
 ---
 
 ## 💻 Selected Works
 
-### ZeroMeds Automation
-High-performance Python middleware for real-time Pharma/ERP synchronization.
-* **Execution:** Custom scripting and robust API integration.
-* **Impact:** Ensures data integrity, automated logistics, and zero-error pipelines.
-
-### Enterprise CRM Suite
-Modular sales ecosystem featuring multi-tenant architecture and live visualization.
-* **Execution:** Built securely on the MERN stack.
-* **Impact:** Real-time concurrency via Socket.io and fortified JWT authentication.
-
-### Intelligent E-Commerce
-Automated retail funnels integrating seamless social platform bridging.
-* **Execution:** React, Node.js, and WhatsApp Business API.
-* **Impact:** Drives cross-platform conversion flows.
+* **ZeroMeds Automation:** High-performance Python middleware for real-time Pharma/ERP synchronization, ensuring zero-error logistics.
+* **Enterprise CRM Suite:** Secure, multi-tenant MERN ecosystem featuring live Socket.io concurrency and strict RBAC.
+* **Intelligent E-Commerce:** Automated retail funnels driving cross-platform conversion via React, Node.js, and WhatsApp API integration.
 
 ---
 
-## 📊 Digital Footprint & Activity
+## 📊 Analytics
 
 <div align="center">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bright3679/Bright3679/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bright3679/Bright3679/output/github-contribution-grid-snake.svg">
@@ -132,34 +120,49 @@ Automated retail funnels integrating seamless social platform bridging.
 
   <br/><br/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Bright3679&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Bright3679&show_icons=true&theme=default&bg_color=ffffff&hide_border=true&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bright3679&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" height="160" alt="GitHub Stats" />
-  </picture>
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" style="border: none;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Bright3679&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&title_color=FFFFFF&text_color=9E9E9E&icon_color=38B2AC&include_all_commits=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Bright3679&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&title_color=121212&text_color=333333&icon_color=38B2AC&include_all_commits=true">
+          <img src="https://github-readme-stats.vercel.app/api?username=Bright3679&show_icons=true&theme=transparent&hide_border=true&icon_color=38B2AC" height="160" alt="GitHub Stats" />
+        </picture>
+      </td>
+      <td align="center" style="border: none;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright3679&layout=compact&theme=transparent&bg_color=00000000&hide_border=true&title_color=FFFFFF&text_color=9E9E9E">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright3679&layout=compact&theme=transparent&bg_color=00000000&hide_border=true&title_color=121212&text_color=333333">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright3679&layout=compact&theme=transparent&hide_border=true" height="160" alt="Top Languages" />
+        </picture>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright3679&layout=compact&theme=radical&bg_color=0D1117&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright3679&layout=compact&theme=default&bg_color=ffffff&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright3679&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" height="160" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Bright3679&bg_color=00000000&hide_border=true&color=38B2AC&line=38B2AC&point=FFFFFF&title_color=FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Bright3679&bg_color=00000000&hide_border=true&color=38B2AC&line=38B2AC&point=121212&title_color=121212">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bright3679&hide_border=true&bg_color=00000000&color=38B2AC&line=38B2AC" width="100%" alt="Activity Graph" />
   </picture>
+
 </div>
 
 ---
 
-## 🤝 Let's Build Something
+## 🤝 Connect
 
 <div align="center">
-  <p><b>Ready to scale your architecture?</b><br/>Whether you need custom middleware, a full-stack MERN ecosystem, or a specialized Linux deployment, let's discuss your project.</p>
+  <p>Available for architectural consultation and freelance development.</p>
   <br/>
-
   <a href="mailto:ujjwal.soni@example.com">
-    <img src="https://img.shields.io/badge/Drop_an_Email-121212?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://your-portfolio-website.com">
-    <img src="https://img.shields.io/badge/View_Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
