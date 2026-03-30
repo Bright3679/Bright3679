@@ -240,6 +240,7 @@
 > **[Synapse-CRM](https://synapse-crm.vercel.app)** &nbsp;·&nbsp; *Real-time customer management system*<br>
 > **[Co-Hr](https://co-hr.vercel.app)** &nbsp;·&nbsp; *Scalable employee management portal*<br>
 > **[Vr-Scents](https://project-vr-perfumes.vercel.app/)** &nbsp;·&nbsp; *Immersive 3D e-commerce experience*
+
 > **`05`** &nbsp; **INTERESTS**
 >
 > Linux internals &nbsp;·&nbsp; Real-time systems &nbsp;·&nbsp; 3D web &nbsp;·&nbsp; Open source &nbsp;·&nbsp; Minimal UI design &nbsp;·&nbsp; ML & AI as infrastructure
