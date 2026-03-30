@@ -1,48 +1,73 @@
 # Ujjwal Soni
+**Full-Stack Developer · UI Engineer · Surat, India · Freelance**
 
-> **Freelance Full-Stack Developer & UI Engineer** based in Surat, India.
-> Architecting high-performance backends and fluid, minimal interfaces. 
-> Bridging heavy system logic with seamless frontend design — end to end.
+&nbsp;
 
----
+**`01`** &nbsp; Who I am
 
-### 💼 Core Focus
+Freelance developer. I build MERN-stack products end-to-end — backend, API, cloud, and UI.
+Linux specialist, performance-first. I care about what runs under the hood, not just what renders in the browser.
 
-* **Full-Stack Engineering** — MERN-stack applications, from database schema to deployment.
-* **UI Engineering** — React & Next.js interfaces focused on speed, minimalism, and intent.
-* **Systems & Cloud** — Linux server configuration, Nginx, AWS, GCP, and CI/CD pipelines.
-* **Emerging Tech** — 3D web experiences (Three.js) and ML/AI infrastructure (PyTorch, TensorFlow).
+&nbsp;
 
----
+**`02`** &nbsp; What I build
 
-### 🛠 Technical Arsenal
+Web apps · REST & GraphQL APIs · Electron desktop apps · 3D web with Three.js · Cloud deployments on AWS & GCP · Real-time systems
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend & UI** | TypeScript, JavaScript, React, Next.js, Three.js, Electron |
-| **Backend & DB** | Node.js, MongoDB, PostgreSQL, MySQL, Redis, SQL Server |
-| **Cloud & DevOps** | AWS, GCP, Cloudflare, Vercel, Nginx, GitHub Actions |
-| **Data & ML** | Python, PyTorch, TensorFlow, Scikit-Learn, Pandas |
+&nbsp;
 
----
+**`03`** &nbsp; Stack
 
-### 🔍 Current Interests
+*Frontend*
 
-`Linux Internals` • `Real-time Backends` • `WebSockets` • `Minimal Typography` • `Open Source Tooling`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white)
 
----
+*Backend & database*
 
-### 📊 GitHub Metrics
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwalsoni&show_icons=true&theme=transparent&hide_border=true&title_color=555555&text_color=888888&icon_color=555555" height="150" alt="Ujjwal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalsoni&layout=compact&theme=transparent&hide_border=true&title_color=555555&text_color=888888" height="150" alt="Top Languages" />
-</div>
+*Cloud & infra*
 
----
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### 📡 Connect & Collaborate
+<details>
+<summary><i>ML & data science</i></summary>
+<br>
 
-[LinkedIn](https://www.linkedin.com/in/ujjwal-soni-ab5a8b291) ╱ [Email](mailto:soniujjwal.work@gmail.com) ╱ [GitHub](https://github.com/ujjwalsoni) ╱ [Buy Me A Coffee](https://www.buymeacoffee.com/)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-*Open to work · Freelance · Collaborations*
+</details>
+
+&nbsp;
+
+**`04`** &nbsp; Interests
+
+Linux internals · Real-time systems · 3D web · Open source · Minimal UI design · ML & AI as infrastructure
+
+&nbsp;
+
+**`05`** &nbsp; Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-soni-ab5a8b291)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:soniujjwal.work@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YOUR_HANDLE)
