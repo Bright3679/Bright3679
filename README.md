@@ -24,19 +24,19 @@
   <br>
 
   <p align="center" style="font-size: 16px;">
-    <a href="mailto:ujjwal.soni@example.com" style="text-decoration: none;">
+    <a href="soniujjwal.work@gmail.com" style="text-decoration: none;">
       <img src="https://api.iconify.design/lucide:mail.svg?color=%23EA4335" width="22" style="vertical-align: middle;" alt="Email" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" style="text-decoration: none;">
+    <a href="www.linkedin.com/in/ujjwal-soni-ab5a8b291" style="text-decoration: none;">
       <img src="https://api.iconify.design/lucide:linkedin.svg?color=%230A66C2" width="22" style="vertical-align: middle;" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/YOUR_GITHUB_USERNAME" style="text-decoration: none;">
+    <a href="https://github.com/bright3679" style="text-decoration: none;">
       <img src="https://api.iconify.design/lucide:github.svg?color=%23FCA311" width="22" style="vertical-align: middle;" alt="GitHub" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://your-portfolio-website.com" style="text-decoration: none;">
+    <a href="https://ujjwalsoni-portfolio.vercel.app/" style="text-decoration: none;">
       <img src="https://api.iconify.design/lucide:globe.svg?color=%2310B981" width="22" style="vertical-align: middle;" alt="Portfolio" />
     </a>
   </p>
