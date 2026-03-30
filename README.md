@@ -1,3 +1,5 @@
+Hey there 👋
+
 # Ujjwal Soni
 **Full-Stack Developer · UI Engineer · Surat, India · Freelance**
 
@@ -5,16 +7,11 @@
 
 **`01`** &nbsp; Who I am
 
-Freelance developer. I build MERN-stack products end-to-end — backend, API, cloud, and UI.
-Linux specialist, performance-first. I care about what runs under the hood, not just what renders in the browser.
-
-&nbsp;
+Freelance developer. I build MERN-stack products end-to-end — backend, API, cloud, and UI. Linux specialist, performance-first. I care about what runs under the hood, not just what renders in the browser.
 
 **`02`** &nbsp; What I build
 
 Web apps · REST & GraphQL APIs · Electron desktop apps · 3D web with Three.js · Cloud deployments on AWS & GCP · Real-time systems
-
-&nbsp;
 
 **`03`** &nbsp; Stack
 
@@ -57,13 +54,9 @@ Web apps · REST & GraphQL APIs · Electron desktop apps · 3D web with Three.js
 
 </details>
 
-&nbsp;
-
 **`04`** &nbsp; Interests
 
 Linux internals · Real-time systems · 3D web · Open source · Minimal UI design · ML & AI as infrastructure
-
-&nbsp;
 
 **`05`** &nbsp; Find me
 
