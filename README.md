@@ -56,7 +56,7 @@
   <a href="mailto:soniujjwal.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
 
-  <br><br><br>
+  <br>
 
   <h2 align="center"> ⚡ Technical Arsenal </h2>
   <p align="center">A curated list of technologies I use to bring ideas to life.</p>
