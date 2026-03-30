@@ -111,14 +111,4 @@
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" alt="Matplotlib">
     <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white" alt="Plotly">
   </details>
-
-  <br><br>
-
-  <h2 align="center"> 📊 GitHub Analytics </h2>
-  <br>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&text_color=777777&icon_color=00E5FF" width="48%" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&title_color=00E5FF&text_color=777777&icon_color=00E5FF" width="48%" alt="GitHub Streak" />
-  </div>
-
 </div>
