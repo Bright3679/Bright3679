@@ -39,6 +39,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=32&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=>_UJJWAL_SONI;>_MERN_STACK_ARCHITECT;>_LINUX_SYSTEM_SPECIALIST;>_UI_ENGINEER">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=32&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=>_UJJWAL_SONI;>_MERN_STACK_ARCHITECT" alt="Typing SVG" />
   </picture>
+  <br>
 
   <p style="font-size: 16px; margin-top: 15px;">
     <b>Freelance Full-Stack Developer & UI Engineer</b> <br>
