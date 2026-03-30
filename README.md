@@ -75,10 +75,9 @@
 > [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/bright3679) -->
 <!-- ////////////////////////////////////////////////////////////// -->
 
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&customColorList=00E5FF,0044AA,00E5FF&height=4&width=700" alt="Animated Top Border" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=2&width=700" alt="Static Top Border" />
 
 <br><br>
 
@@ -90,7 +89,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&customColorList=00E5FF,0044AA,00E5FF&height=4&width=700" alt="Animated Bottom Border" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=2&width=700" alt="Static Bottom Border" />
 
 </div>
 
