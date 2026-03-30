@@ -29,63 +29,42 @@
 
 ## ⬡ CORE ARCHITECTURE & TECHNOLOGIES
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
-  <tr>
-    <td align="center" width="33%" style="border: none; vertical-align: top;">
-      <b>Frontend & Motion</b><br><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&perline=2" alt="Frontend" /></a>
-    </td>
-    <td align="center" width="33%" style="border: none; vertical-align: top;">
-      <b>Backend & Middleware</b><br><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,py&perline=2" alt="Backend" /></a>
-    </td>
-    <td align="center" width="33%" style="border: none; vertical-align: top;">
-      <b>Systems & Deployment</b><br><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,arch,docker,nginx&perline=2" alt="Systems" /></a>
-    </td>
-  </tr>
-</table>
-
-<br><br>
+<div align="center">
+  <br />
+  <p style="color: #888;"><b>FRONTEND & MOTION</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,framermotion&perline=10" alt="Frontend Engineering" />
+  </a>
+  
+  <br /><br />
+  
+  <p style="color: #888;"><b>BACKEND & MIDDLEWARE</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,py&perline=10" alt="Backend Architecture" />
+  </a>
+  
+  <br /><br />
+  
+  <p style="color: #888;"><b>SYSTEMS & DEPLOYMENT</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,arch,docker,nginx,bash&perline=10" alt="Systems Administration" />
+  </a>
+  <br /><br />
+</div>
 
 ## ⬡ ENGINEERING PORTFOLIO
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
-  <tr>
-    <td width="30%" style="border-bottom: 1px solid #444; padding: 15px 0;"><b>ZeroMeds Automation</b></td>
-    <td width="70%" style="border-bottom: 1px solid #444; padding: 15px 0;">High-performance Python middleware for real-time Pharma/ERP synchronization, ensuring data integrity and zero-error logistics pipelines.</td>
-  </tr>
-  <tr>
-    <td width="30%" style="border-bottom: 1px solid #444; padding: 15px 0;"><b>Enterprise CRM Suite</b></td>
-    <td width="70%" style="border-bottom: 1px solid #444; padding: 15px 0;">Modular multi-tenant MERN ecosystem featuring live Socket.io concurrency, real-time data visualization, and strict JWT/RBAC security.</td>
-  </tr>
-  <tr>
-    <td width="30%" style="border-bottom: 1px solid #444; padding: 15px 0;"><b>Intelligent E-Commerce</b></td>
-    <td width="70%" style="border-bottom: 1px solid #444; padding: 15px 0;">Automated retail funnel bridging social platforms and conversion flows via Next.js, Node.js, and WhatsApp Business API integrations.</td>
-  </tr>
-</table>
+| Architecture & Scope | Technical Profile |
+| :--- | :--- |
+| **ZeroMeds Automation**<br>High-performance middleware for real-time Pharma/ERP synchronization, ensuring strict data integrity and zero-error logistics pipelines. | <br>![Python](https://img.shields.io/badge/Python-121212?style=flat-square&logo=python) ![ERP](https://img.shields.io/badge/ERP_Integration-121212?style=flat-square) |
+| **Enterprise CRM Suite**<br>Modular multi-tenant ecosystem featuring live concurrency, real-time data visualization, and enterprise-grade security protocols. | <br>![MERN](https://img.shields.io/badge/MERN_Stack-121212?style=flat-square&logo=nodedotjs) ![Socket.io](https://img.shields.io/badge/Socket.io-121212?style=flat-square&logo=socketdotio) ![JWT](https://img.shields.io/badge/JWT-121212?style=flat-square) |
+| **Intelligent E-Commerce**<br>Automated retail funnel bridging social platforms and conversion flows, optimized for high traffic and seamless user acquisition. | <br>![Next.js](https://img.shields.io/badge/Next.js-121212?style=flat-square&logo=nextdotjs) ![Node.js](https://img.shields.io/badge/Node.js-121212?style=flat-square&logo=nodedotjs) ![WhatsApp](https://img.shields.io/badge/WhatsApp_API-121212?style=flat-square&logo=whatsapp) |
 
-<br><br>
+<br>
 
 ## ⬡ DIGITAL ANALYTICS
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" style="border: none; padding: 0 10px 0 0;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Bright3679&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=9E9E9E&icon_color=FFFFFF&include_all_commits=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Bright3679&show_icons=true&theme=transparent&hide_border=true&title_color=121212&text_color=555555&icon_color=121212&include_all_commits=true">
-          <img src="https://github-readme-stats.vercel.app/api?username=Bright3679&show_icons=true&theme=transparent&hide_border=true&icon_color=FFFFFF" height="160" alt="GitHub Stats" />
-        </picture>
-      </td>
-      <td align="center" style="border: none; padding: 0;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright3679&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=9E9E9E">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright3679&layout=compact&theme=transparent&hide_border=true&title_color=121212&text_color=555555">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright3679&layout=compact&theme=transparent&hide_border=true" height="160" alt="Top Languages" />
-        </picture>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bright3679&show_icons=true&bg_color=0a0a0a&title_color=ffffff&text_color=9e9e9e&icon_color=ffffff&hide_border=true&border_radius=0" height="160" alt="GitHub Commits & Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright3679&layout=compact&bg_color=0a0a0a&title_color=ffffff&text_color=9e9e9e&hide_border=true&border_radius=0" height="160" alt="Top Languages Output" />
 </div>
