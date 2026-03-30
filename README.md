@@ -34,15 +34,15 @@
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Background Banner" style="border-radius: 12px; margin-bottom: 20px;" />
   
-  <br><br>
-  
+  <br><br><br><br>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=32&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=>_UJJWAL_SONI;>_MERN_STACK_ARCHITECT;>_LINUX_SYSTEM_SPECIALIST;>_UI_ENGINEER">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=32&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=>_UJJWAL_SONI;>_MERN_STACK_ARCHITECT;>_LINUX_SYSTEM_SPECIALIST;>_UI_ENGINEER">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=32&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=>_UJJWAL_SONI;>_MERN_STACK_ARCHITECT" alt="Typing SVG" />
   </picture>
   
-  <br><br>
+  <br><br><br><br>
 
 
   <p style="font-size: 16px; margin-top: 15px;">
