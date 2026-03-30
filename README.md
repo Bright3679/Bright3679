@@ -237,8 +237,8 @@
 
 > **`04`** &nbsp; **PRODUCTION WORKS**
 >
-> **[Synapse-CRM](https://synapse-crm.vercel.app)** &nbsp;·&nbsp; *Real-time customer management system*
-> **[Co-Hr](https://co-hr.vercel.app)** &nbsp;·&nbsp; *Scalable employee management portal*
+> **[Synapse-CRM](https://synapse-crm.vercel.app)** &nbsp;·&nbsp; *Real-time customer management system*<br>
+> **[Co-Hr](https://co-hr.vercel.app)** &nbsp;·&nbsp; *Scalable employee management portal*<br>
 > **[Vr-Scents](https://project-vr-perfumes.vercel.app/)** &nbsp;·&nbsp; *Immersive 3D e-commerce experience*
 > **`05`** &nbsp; **INTERESTS**
 >
