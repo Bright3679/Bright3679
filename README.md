@@ -21,15 +21,19 @@
 
   <p align="center">
     <a href="mailto:ujjwal.soni@example.com">
-      <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email" />
+      <img src="https://img.shields.io/badge/-Email-transparent?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    &nbsp;
+    &nbsp; <b style="color: #555;">•</b> &nbsp;
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-      <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111111" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/-LinkedIn-transparent?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    &nbsp;
+    &nbsp; <b style="color: #555;">•</b> &nbsp;
+    <a href="https://github.com/YOUR_GITHUB_USERNAME">
+      <img src="https://img.shields.io/badge/-GitHub-transparent?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp; <b style="color: #555;">•</b> &nbsp;
     <a href="https://your-portfolio-website.com">
-      <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/-Portfolio-transparent?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 
