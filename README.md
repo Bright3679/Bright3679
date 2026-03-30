@@ -19,21 +19,25 @@
 
   <br>
 
-  <p align="center">
-    <a href="mailto:ujjwal.soni@example.com">
-      <img src="https://img.shields.io/badge/-Email-transparent?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <p align="center" style="font-size: 16px;">
+    <a href="mailto:ujjwal.soni@example.com" style="text-decoration: none;">
+      <img src="https://api.iconify.design/lucide:mail.svg?color=white" width="18" style="vertical-align: middle;" alt="Email" />
+      <b style="color: white; vertical-align: middle;">Email</b>
     </a>
-    &nbsp; <b style="color: #555;">•</b> &nbsp;
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-      <img src="https://img.shields.io/badge/-LinkedIn-transparent?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    &nbsp;&nbsp;&nbsp; <b style="color: #666; vertical-align: middle;">●</b> &nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" style="text-decoration: none;">
+      <img src="https://api.iconify.design/lucide:linkedin.svg?color=white" width="18" style="vertical-align: middle;" alt="LinkedIn" />
+      <b style="color: white; vertical-align: middle;">LinkedIn</b>
     </a>
-    &nbsp; <b style="color: #555;">•</b> &nbsp;
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">
-      <img src="https://img.shields.io/badge/-GitHub-transparent?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    &nbsp;&nbsp;&nbsp; <b style="color: #666; vertical-align: middle;">●</b> &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/YOUR_GITHUB_USERNAME" style="text-decoration: none;">
+      <img src="https://api.iconify.design/lucide:github.svg?color=white" width="18" style="vertical-align: middle;" alt="GitHub" />
+      <b style="color: white; vertical-align: middle;">GitHub</b>
     </a>
-    &nbsp; <b style="color: #555;">•</b> &nbsp;
-    <a href="https://your-portfolio-website.com">
-      <img src="https://img.shields.io/badge/-Portfolio-transparent?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+    &nbsp;&nbsp;&nbsp; <b style="color: #666; vertical-align: middle;">●</b> &nbsp;&nbsp;&nbsp;
+    <a href="https://your-portfolio-website.com" style="text-decoration: none;">
+      <img src="https://api.iconify.design/lucide:globe.svg?color=white" width="18" style="vertical-align: middle;" alt="Portfolio" />
+      <b style="color: white; vertical-align: middle;">Portfolio</b>
     </a>
   </p>
 
