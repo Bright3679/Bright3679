@@ -22,22 +22,22 @@
   <p align="center" style="font-size: 16px;">
     <a href="mailto:ujjwal.soni@example.com" style="text-decoration: none;">
       <img src="https://api.iconify.design/lucide:mail.svg?color=white" width="18" style="vertical-align: middle;" alt="Email" />
-      <b style="color: white; vertical-align: middle;">Email</b>
+      <b style="color: white; vertical-align: middle;"></b>
     </a>
     &nbsp;&nbsp;&nbsp; <b style="color: #666; vertical-align: middle;">●</b> &nbsp;&nbsp;&nbsp;
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" style="text-decoration: none;">
       <img src="https://api.iconify.design/lucide:linkedin.svg?color=white" width="18" style="vertical-align: middle;" alt="LinkedIn" />
-      <b style="color: white; vertical-align: middle;">LinkedIn</b>
+      <b style="color: white; vertical-align: middle;"></b>
     </a>
     &nbsp;&nbsp;&nbsp; <b style="color: #666; vertical-align: middle;">●</b> &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/YOUR_GITHUB_USERNAME" style="text-decoration: none;">
       <img src="https://api.iconify.design/lucide:github.svg?color=white" width="18" style="vertical-align: middle;" alt="GitHub" />
-      <b style="color: white; vertical-align: middle;">GitHub</b>
+      <b style="color: white; vertical-align: middle;"></b>
     </a>
     &nbsp;&nbsp;&nbsp; <b style="color: #666; vertical-align: middle;">●</b> &nbsp;&nbsp;&nbsp;
     <a href="https://your-portfolio-website.com" style="text-decoration: none;">
       <img src="https://api.iconify.design/lucide:globe.svg?color=white" width="18" style="vertical-align: middle;" alt="Portfolio" />
-      <b style="color: white; vertical-align: middle;">Portfolio</b>
+      <b style="color: white; vertical-align: middle;"></b>
     </a>
   </p>
 
