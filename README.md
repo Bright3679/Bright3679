@@ -23,53 +23,23 @@
 
   <br>
 
-  <p align="center" style="font-size: 16px;">
-    <a href="soniujjwal.work@gmail.com" style="text-decoration: none;">
-      <img src="https://api.iconify.design/lucide:mail.svg?color=%23EA4335" width="22" style="vertical-align: middle;" alt="Email" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="www.linkedin.com/in/ujjwal-soni-ab5a8b291" style="text-decoration: none;">
-      <img src="https://api.iconify.design/lucide:linkedin.svg?color=%230A66C2" width="22" style="vertical-align: middle;" alt="LinkedIn" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/bright3679" style="text-decoration: none;">
-      <img src="https://api.iconify.design/lucide:github.svg?color=%23FCA311" width="22" style="vertical-align: middle;" alt="GitHub" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://ujjwalsoni-portfolio.vercel.app/" style="text-decoration: none;">
-      <img src="https://api.iconify.design/lucide:globe.svg?color=%2310B981" width="22" style="vertical-align: middle;" alt="Portfolio" />
-    </a>
-  </p>
-  <h3 align="center" style="color: #9333EA;">✦ Stack Architecture ✦</h3>
-  
-  <br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ujjwal-soni-ab5a8b291) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soniujjwal.work@gmail.com) 
 
-  <p align="center" style="font-size: 15px;">
-    <b style="color: #F43F5E; font-size: 12px; letter-spacing: 1px;">FRONTEND & UI</b><br><br>
-    <img src="https://cdn.simpleicons.org/react/61DAFB" width="16" style="vertical-align: middle;" alt="React" /> <b style="color: #61DAFB; vertical-align: middle;">React</b> &nbsp;&nbsp; <b style="color: #555; vertical-align: middle;">•</b> &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/nextdotjs/cccccc" width="16" style="vertical-align: middle;" alt="Next.js" /> <b style="color: #cccccc; vertical-align: middle;">Next.js</b> &nbsp;&nbsp; <b style="color: #555; vertical-align: middle;">•</b> &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/typescript/3178C6" width="16" style="vertical-align: middle;" alt="TypeScript" /> <b style="color: #3178C6; vertical-align: middle;">TypeScript</b> &nbsp;&nbsp; <b style="color: #555; vertical-align: middle;">•</b> &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="16" style="vertical-align: middle;" alt="Tailwind" /> <b style="color: #06B6D4; vertical-align: middle;">Tailwind</b> &nbsp;&nbsp; <b style="color: #555; vertical-align: middle;">•</b> &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/greensock/88CE02" width="16" style="vertical-align: middle;" alt="GSAP" /> <b style="color: #88CE02; vertical-align: middle;">GSAP</b>
-  </p>
-
-  <br>
-
-  <p align="center" style="font-size: 15px;">
-    <b style="color: #F43F5E; font-size: 12px; letter-spacing: 1px;">BACKEND & DATABASE</b><br><br>
-    <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="16" style="vertical-align: middle;" alt="Node.js" /> <b style="color: #339933; vertical-align: middle;">Node.js</b> &nbsp;&nbsp; <b style="color: #555; vertical-align: middle;">•</b> &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/express/cccccc" width="16" style="vertical-align: middle;" alt="Express" /> <b style="color: #cccccc; vertical-align: middle;">Express</b> &nbsp;&nbsp; <b style="color: #555; vertical-align: middle;">•</b> &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/mongodb/47A248" width="16" style="vertical-align: middle;" alt="MongoDB" /> <b style="color: #47A248; vertical-align: middle;">MongoDB</b>
-  </p>
-
-  <br>
-
-  <p align="center" style="font-size: 15px;">
-    <b style="color: #F43F5E; font-size: 12px; letter-spacing: 1px;">SYSTEMS & DEVOPS</b><br><br>
-    <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="16" style="vertical-align: middle;" alt="Arch Linux" /> <b style="color: #1793D1; vertical-align: middle;">Arch Linux</b> &nbsp;&nbsp; <b style="color: #555; vertical-align: middle;">•</b> &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/docker/2496ED" width="16" style="vertical-align: middle;" alt="Docker" /> <b style="color: #2496ED; vertical-align: middle;">Docker</b> &nbsp;&nbsp; <b style="color: #555; vertical-align: middle;">•</b> &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="16" style="vertical-align: middle;" alt="Bash" /> <b style="color: #4EAA25; vertical-align: middle;">Bash</b> &nbsp;&nbsp; <b style="color: #555; vertical-align: middle;">•</b> &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/git/F05032" width="16" style="vertical-align: middle;" alt="Git" /> <b style="color: #F05032; vertical-align: middle;">Git</b>
-  </p>
-
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=flat&logo=nim&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
 </div>
+
+![](https://github-readme-stats.vercel.app/api?username=bright3679&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bright3679&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bright3679&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bright3679&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/< Buy me a Koofi /> Bright3679) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
