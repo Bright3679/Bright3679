@@ -75,7 +75,7 @@
 > [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/bright3679) -->
 //////////////////////////////////////////////////////////////
 
-<!-- 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&customColorList=00E5FF,0044AA,00E5FF&height=4&width=700" alt="Animated Top Border" />
@@ -156,55 +156,4 @@
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-soni-ab5a8b291)
 > [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:soniujjwal.work@gmail.com)
 > [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-> [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/Bright3679) -->
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&duration=1&pause=99999&color=94A3B8&vCenter=true&repeat=false&width=700&height=60&lines=Ujjwal+Soni" alt="Ujjwal Soni" />
-
-**MERN Stack Developer** &nbsp;|&nbsp; **UI Engineer** &nbsp;|&nbsp; **Surat, India** &nbsp;|&nbsp; **Freelance**
-
-<br>
-
-### 01. Overview
-Freelance developer with 2+ years of experience building products end-to-end. I specialize in the MERN stack, Linux system architecture, and crafting minimal, high-performance user interfaces without relying on bloated visual effects. I care about what runs under the hood just as much as what renders in the browser.
-
-### 02. Technical Arsenal
-
-**Core** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-**Data** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
-
-**Infra** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-**Creative** &nbsp;&nbsp;&nbsp;
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white)
-
-### 03. Current Focus
-* Architecting scalable REST & GraphQL APIs
-* Exploring Linux internals and system optimization
-* Developing real-time systems
-* Building 3D web experiences
-
-### 04. Stats & Activity
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=transparent&hide_border=true&title_color=94A3B8&text_color=8b949e&icon_color=94A3B8&text_bold=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=transparent&hide_border=true&title_color=94A3B8&text_color=8b949e&layout=compact&langs_count=5" height="150" alt="Top Languages" />
-</div>
-
-### 05. Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-soni-ab5a8b291)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soniujjwal.work@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+> [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/Bright3679)
