@@ -138,9 +138,7 @@
     <img src="https://cdn.simpleicons.org/express/cccccc" width="16" style="vertical-align: middle;" alt="Express" /> <b style="color: #cccccc; vertical-align: middle;">Express</b> &nbsp;&nbsp; <b style="color: #555; vertical-align: middle;">•</b> &nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/mongodb/47A248" width="16" style="vertical-align: middle;" alt="MongoDB" /> <b style="color: #47A248; vertical-align: middle;">MongoDB</b>
   </p>
-
-  <br>
-
+  
   <p align="center" style="font-size: 15px;">
     <b style="color: #F43F5E; font-size: 12px; letter-spacing: 1px;">SYSTEMS & DEVOPS</b><br><br>
     <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="16" style="vertical-align: middle;" alt="Arch Linux" /> <b style="color: #1793D1; vertical-align: middle;">Arch Linux</b> &nbsp;&nbsp; <b style="color: #555; vertical-align: middle;">•</b> &nbsp;&nbsp;
