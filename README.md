@@ -23,21 +23,19 @@
     <a href="mailto:ujjwal.soni@example.com" style="text-decoration: none;">
       <img src="https://api.iconify.design/lucide:mail.svg?color=white" width="18" style="vertical-align: middle;" alt="Email" />
     </a>
-    &nbsp;&nbsp;&nbsp; <b style="color: #666; vertical-align: middle;">●</b> &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp; <b style="color: #666; vertical-align: middle;"></b> &nbsp;&nbsp;&nbsp;
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" style="text-decoration: none;">
       <img src="https://api.iconify.design/lucide:linkedin.svg?color=white" width="18" style="vertical-align: middle;" alt="LinkedIn" />
     </a>
-    &nbsp;&nbsp;&nbsp; <b style="color: #666; vertical-align: middle;">●</b> &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp; <b style="color: #666; vertical-align: middle;"></b> &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/YOUR_GITHUB_USERNAME" style="text-decoration: none;">
       <img src="https://api.iconify.design/lucide:github.svg?color=white" width="18" style="vertical-align: middle;" alt="GitHub" />
     </a>
-    &nbsp;&nbsp;&nbsp; <b style="color: #666; vertical-align: middle;">●</b> &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp; <b style="color: #666; vertical-align: middle;"></b> &nbsp;&nbsp;&nbsp;
     <a href="https://your-portfolio-website.com" style="text-decoration: none;">
       <img src="https://api.iconify.design/lucide:globe.svg?color=white" width="18" style="vertical-align: middle;" alt="Portfolio" />
     </a>
   </p>
-
-  <br><br><br>
 
   <h3 align="center" style="color: #888;">Stack Architecture</h3>
   
