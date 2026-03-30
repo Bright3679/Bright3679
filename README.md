@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=10" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=15" />
 
-### Hey there 👋
+**`HELLO, I'M`**
 
-<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=64&duration=1&pause=99999&color=3B82F6&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Ujjwal+Soni" alt="Ujjwal Soni" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=68&duration=1&pause=99999&color=00E5FF&center=true&vCenter=true&repeat=false&width=700&height=85&lines=Ujjwal+Soni" alt="Ujjwal Soni" />
 
 **`Full-Stack Developer`** &nbsp;·&nbsp; **`UI Engineer`** &nbsp;·&nbsp; **`Surat, India`** &nbsp;·&nbsp; **`Freelance`**
 
