@@ -4,7 +4,7 @@
 
 ### Hey there 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=62&duration=1&pause=99999&color=1a1a1a&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Ujjwal+Soni" alt="Ujjwal Soni" />
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=64&duration=1&pause=99999&color=3B82F6&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Ujjwal+Soni" alt="Ujjwal Soni" />
 
 **`Full-Stack Developer`** &nbsp;·&nbsp; **`UI Engineer`** &nbsp;·&nbsp; **`Surat, India`** &nbsp;·&nbsp; **`Freelance`**
 
